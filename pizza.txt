@@ -5,4 +5,5 @@ yeast
 tomato sauce
 mozarella cheese
 mushrooms
+pepperoni
 
